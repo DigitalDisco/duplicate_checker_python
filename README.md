@@ -1,2 +1,3 @@
 # duplicate_checker_python
-A duplicate checker tool made in python which allows for scanning of work to identify similarites
+A duplicate checker tool made in python which allows for scanning of work to identify similarites. I decided against not including my medium sized and huge sized text folders as I could demo those myself. The program is capable, much like the other, in taking huge amounts of data, and scanning through them quickly and efficiently, this time using hash tables. Instructions are again kept in a seperate readme file, but i would be more than happy to demo it for any companies dealing with huge chunks of data and/or data analysis (or are just interested in fun python code). 
+
